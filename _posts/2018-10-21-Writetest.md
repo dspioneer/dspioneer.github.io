@@ -2,12 +2,11 @@
 layout: post
 title: 첫번째 포스팅 잘되어랏!
 date: 2018-10-21 13:45:00 +0300
-description: 내생에 첫번째 깃허브 포스팅
-changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
-tags: 여기는 태그라고 되어 있네요 # add tag
+description:
+img:
+fig-caption:
+tags: [테스트] # add tag
 ---
-
 테스트 하는 첫번 글입니다. 이부분은 인트로일까요?
 
 
