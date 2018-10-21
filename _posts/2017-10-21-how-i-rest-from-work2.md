@@ -3,7 +3,7 @@ layout: post
 title: 사진과 함께 하는 블로그
 date: 2018-10-21 21:47:00 +0300
 description: 사진을 넣어서 포스팅 합니다. # Add post description (optional)
-img: DEEPL.png # Add image post (optional)
+img: ddp.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [사진, 딥러닝]
 ---
