@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: SEONGJU KIM # add your name
 author-img: main_ksj.jpg # add your photo
-about-author: 데이터 사이언스 개척자가 되고 싶은 접니다. # add description
+about-author: "Data Science"라는 즐겁고, 잘 할 수 있는 일을 드디어 찾아 냈고, 열심히 달리고 있습니다. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: dspioneer # add your Github handle
